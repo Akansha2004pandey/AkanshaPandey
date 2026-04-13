@@ -11,7 +11,7 @@ const experiences = [
     company: "Floneo Technologies",
     role: "Frontend Developer Intern",
     period: "2024 – 2025",
-    desc: "Built a low-code/no-code platform with canvas editor UI, multi-device mode support, multilingual support, live app preview, run functionality, and drag-and-drop component system.",
+    desc: "Worked on a low-code/no-code platform with canvas editor UI, multi-device mode support, multilingual support, live app preview, run functionality, and drag-and-drop component system.",
   },
   {
     company: "Dynamic Mavens",
